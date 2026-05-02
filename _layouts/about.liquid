@@ -39,9 +39,11 @@ layout: default
           <div class="social">
             <div class="contact-icons">
               {% social_links %}
+              {% if site.enable_about_zhihu %}
               <a href="https://www.zhihu.com/people/qi-shi-qi-si" title="Zhihu" target="_blank" rel="noopener noreferrer">
                 <img src="{{ '/assets/icon/zhihu.svg' | relative_url }}" alt="Zhihu">
               </a>
+              {% endif %}
             </div>
             <div class="contact-note">{{ site.contact_note }}</div>
           </div>
