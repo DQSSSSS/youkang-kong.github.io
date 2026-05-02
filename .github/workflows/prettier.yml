@@ -1,14 +1,17 @@
 name: Prettier code formatter
 
+# Automatic Prettier check disabled — uncomment below to re-enable on push/PR.
+# on:
+#   pull_request:
+#     branches:
+#       - master
+#       - main
+#   push:
+#     branches:
+#       - master
+#       - main
 on:
-  pull_request:
-    branches:
-      - master
-      - main
-  push:
-    branches:
-      - master
-      - main
+  workflow_dispatch:
 
 jobs:
   check:
