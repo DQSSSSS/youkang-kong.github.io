@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-04'
 papers:
   4Lm61fIAAAAJ:1sJd4Hv_s6UC:
     citations: 2
@@ -14,6 +14,6 @@ papers:
     title: Multi-view representation is what you need for point-cloud pre-training
     year: '2023'
   4Lm61fIAAAAJ:nb7KW1ujOQ8C:
-    citations: 91
+    citations: 92
     title: 'Dilightnet: Fine-grained lighting control for diffusion-based image generation'
     year: '2024'
