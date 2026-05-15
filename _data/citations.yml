@@ -1,18 +1,18 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-15'
 papers:
   4Lm61fIAAAAJ:1sJd4Hv_s6UC:
     citations: 2
     title: Neural Path Sampling for Rendering Pure Specular Light Transport
     year: '2024'
   4Lm61fIAAAAJ:KxtntwgDAa4C:
-    citations: 26
+    citations: 27
     title: Constrained truth discovery
     year: '2020'
   4Lm61fIAAAAJ:P5F9QuxV20EC:
     citations: 12
     title: Multi-view representation is what you need for point-cloud pre-training
-    year: '2023'
+    year: '2024'
   4Lm61fIAAAAJ:UxriW0iASnsC:
     citations: 0
     title: 'CasLayout: Cascaded 3D Layout Diffusion for Indoor Scene Synthesis with Implicit Relation Modeling'
@@ -22,6 +22,6 @@ papers:
     title: 'SQuadGen: Generating Simple Quad Layouts via Chart Distance Fields'
     year: '2026'
   4Lm61fIAAAAJ:nb7KW1ujOQ8C:
-    citations: 94
+    citations: 95
     title: 'Dilightnet: Fine-grained lighting control for diffusion-based image generation'
     year: '2024'
